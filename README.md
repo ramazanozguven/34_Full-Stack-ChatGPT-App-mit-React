@@ -1,6 +1,6 @@
 # Full-Stack ChatGPT App mit React 19, Express, MongoDB & Google Gemini AI
 
-![Screenshot]()
+![Screenshot](https://github.com/ramazanozguven/34_Full-Stack-ChatGPT-App-mit-React/blob/7dfe6a2860a1ca9c26a5a0951dd1d6e2300456a9/Screenshot.jpg)
 
 ## 🚀 Moderne KI-Chat-Anwendung mit React 19, Express, MongoDB & Gemini AI
 
